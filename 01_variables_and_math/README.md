@@ -1,6 +1,6 @@
 # 📁 01_variables_and_math
 
-## 🧠 Concepts Practiced
+## 🧠 Concepts Practiced 
 - Variable assignment and data types
 - User input with `input()` and type conversion using `float()`
 - Mathematical operations (`**`, `/`, `*`, etc.)
