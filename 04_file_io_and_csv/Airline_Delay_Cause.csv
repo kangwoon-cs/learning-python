@@ -1,0 +1,9 @@
+carrier_name,arr_flights,arr_del15,arr_cancelled,arr_diverted,arr_delay,carrier_delay,weather_delay,nas_delay,security_delay,late_aircraft_delay
+SkyWest,238,63,2,0,4729,2360,441,467,0,1461
+Envoy,168,20,2,2,904,109,107,201,0,487
+Frontier,22,6,1,0,285,25,29,119,0,112
+United,29,5,1,0,364,116,0,62,0,186
+Endeavor,10,1,0,0,15,0,0,15,0,0
+Delta,58,5,0,0,129,77,0,52,0,0
+Allegiant,51,4,0,0,450,420,9,21,0,0
+AirWisconsin,17,2,0,0,342,58,13,22,0,249
